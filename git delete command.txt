@@ -1,0 +1,4 @@
+aws codecommit delete-file --repository-name MyDemoRepo --branch-name main --file-path img\aa --parent-commit-id 31b7cbfaaa99106513060ad24f9ef02af340555b
+
+
+
